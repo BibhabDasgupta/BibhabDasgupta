@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Bibhab Dasgupta</h1>
-<h3 align="center">Blockchain Enthusiast | Cybersecurity Explorer | Software Developer </h3>
+<h3 align="center">Backend Enthusiast | Cybersecurity Explorer | Software Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BibhabDasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="BibhabDasgupta" /> </p>
 
