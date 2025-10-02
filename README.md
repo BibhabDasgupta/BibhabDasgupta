@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BibhabDasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="BibhabDasgupta" /> </p>
 
-- 🔭 I'm a B.Tech CSE student at **Indian Institute of Information Technology, Guwahati** (CGPA: 8.24/10)
+- 🔭 I'm a B.Tech CSE student at **Indian Institute of Information Technology, Guwahati** 
 - 🌱 Currently exploring **Self-Sovereign Identity (SSI), Decentralized Systems, and Privacy-Preserving Tech**
 - 👯 Looking to collaborate on **Blockchain, Cryptography, and Secure Systems projects**
 - 🧑‍💻 Recent Internships: Research Intern at Cogneo Technologies (Identity & Cryptography) | Software Developer Intern at Pinggy Technology (Systems)
