@@ -10,11 +10,10 @@
 - 👯 Looking to collaborate on **Blockchain, Cryptography, and Secure Systems projects**
 - 🧑‍💻 Recent Internships: Research Intern at Cogneo Technologies (Identity & Cryptography) | Software Developer Intern at Pinggy Technology (Systems)
 - 📫 Reach me at **dasguptabibhab@gmail.com** or +91-9330377736
-- 📝 Check out my [Github](https://shorturl.at/zYi76) | [Linkedin](https://shorturl.at/dH3t8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bibhab-dasgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibhab-dasgupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bibhab-dasgupta-97051827a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibhab-dasgupta" height="30" width="40" /></a>
 <a href="https://github.com/BibhabDasgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="BibhabDasgupta" height="30" width="40" /></a>
 </p>
 
