@@ -38,7 +38,6 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BibhabDasgupta&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" width="400" alt="Bibhab's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BibhabDasgupta&theme=dracula&hide_border=true" width="400" alt="Bibhab's Streak Stats"/>
 </p>
 
